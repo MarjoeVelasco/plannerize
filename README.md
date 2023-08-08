@@ -5,6 +5,8 @@ Plannerize is an application designed to revolutionize your daily task managemen
 interface and powerful features, Plannerize offers a simplified planner experience that helps you stay 
 organized and productive.
 
+![localhost_5173_ (1)](https://github.com/MarjoeVelasco/plannerize/assets/46857235/86d489d0-3619-4f92-a4ae-d687238edd77)
+
 ## Features
 
 - **Interactive Checklist** – allows users to create tasks checklists effortlessly. Easily add, edit, and manage your tasks with just a few clicks. Mark completed tasks, set due dates, and prioritize your to-dos for enhanced productivity.
